@@ -34,7 +34,7 @@ Interestingly though, it was the &quot;Other&quot; players who had the higher av
 
 <img src="https://github.com/patrickhpatin/Pandas-Challenge/blob/master/Images/AvgPurchValByGender.png" />
 
-However, despite having the higher average purchase amount, males still generate the vast majority of the revenue.  And even if you combines the &quot;Other&quot; and Female Gender categories, male total purchases still total more - almost 5 times more!
+However, despite having the higher average purchase amount, males still generated the vast majority of the revenue.  And even if you combined the &quot;Other&quot; and Female Gender categories together, male total purchases still total way more - almost 5 times more!
 
 <img src="https://github.com/patrickhpatin/Pandas-Challenge/blob/master/Images/TotalPurchValByGender.png" />
 
@@ -48,7 +48,7 @@ Diving deeper into our analysis, we find that most players are not only male but
 <br><br><br>
 <b>Total Purchases by Age Range<b>
 
-So, it comes as no surprise that our college aged players (mostly males) make up the majority of the total purchases.
+So, as expected, the college aged players (mostly males) made up the majority of the total purchases.
 
 <img src="https://github.com/patrickhpatin/Pandas-Challenge/blob/master/Images/TotalPurchValByAgeRange.png" />
 
