@@ -55,4 +55,4 @@ So, as expected, the college aged players (mostly males) made up the majority of
 <br><br><br>
 <b>Final Analysis<b>
   
-Marketing efforts for Heroes of Pymoli should focus on males between the ages of 20 to 24 to maximize their marketing dollars.
+Marketing efforts for Heroes of Pymoli should be focused on males between the ages of 20 to 24 to maximize their marketing dollars.
