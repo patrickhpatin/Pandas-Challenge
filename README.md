@@ -3,7 +3,7 @@
 <b>Instructions for TAs:</b><br>
 The following folder structure is expected for my script and Readme file to work properly.  Nothing was changed from the homework folder structure except that I added 5 images to the &quot;/Images&quot; directory for the Readme file.  The folder structure should be:
 
-<ul>/HeroesofPymoli
+<ul>HeroesofPymoli
   <li>/Images<ul>
     <li>AvgPurchValByGender.png</li>
     <li>PercPlayersByAgeRange.png</li>
